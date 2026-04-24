@@ -21,6 +21,7 @@ public class Ex03{
         }else{
             System.out.println("Inválido");
         }
-    }
+      }
+      sc.close();
     }
 }
